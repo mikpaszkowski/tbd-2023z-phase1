@@ -1,0 +1,6 @@
+{
+  "sourceFormat": "ORC",
+  "sourceUris": [
+    "gs://bigquery-oreilly-book/oreilly-datasets/natality/orc/year=2000/month=1/*.orc"
+  ]
+}
